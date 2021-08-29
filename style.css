@@ -1,0 +1,24 @@
+.body_backgorund 
+{
+    background-image:url(https://th.bing.com/th/id/R.76bee12f2c002ac2eccab1e83e5e9645?rik=kajCmucmoPrasg&riu=http%3a%2f%2fimages6.fanpop.com%2fimage%2fphotos%2f36800000%2f-PR-Turbo-the-power-ranger-36878770-500-290.jpg&ehk=xAb7sCHCEMhvm8SCvgPHVbHfPeli0rm%2f4285zRjxXPo%3d&risl=&pid=ImgRaw&r=0);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color:aliceblue; 
+    border-style:ridge;
+ margin-top: 250px;
+ margin-left: 160px;
+ 
+}
+
+h2
+{
+	width: 1000px;
+	background-color:cadetblue;
+	display: inline-block;
+
+}
+
